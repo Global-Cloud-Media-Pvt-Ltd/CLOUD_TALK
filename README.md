@@ -12,7 +12,7 @@ https://cloudtelecom.lk
 
 **Global Cloud Media** brings you a next-gen **cloud-based calling facility**, tailor-made for modern enterprises. Backed by **Cloud Telecom's powerful infrastructure**, this solution empowers businesses to manage voice communication seamlessly, securely, and at scale — all from the cloud.
 
-> 🏢 Designed for Enterprises | 🌐 99.99% Uptime | 📞 Carrier-Grade Quality | 🔐 End-to-End Encryption
+> 🏢 Designed for Enterprises | 🌐 99.99% Uptime | 📞 Carrier-Grade Quality
 
 ---
 
