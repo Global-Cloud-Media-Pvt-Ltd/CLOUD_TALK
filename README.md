@@ -1,40 +1,41 @@
-# CLOUD TALK
+# ☁️ CLOUD TALK – Enterprise Cloud Calling Solution
 
 ![ct__dialer_bottom_img](https://github.com/user-attachments/assets/08698d7c-6e91-4088-8bd7-8788d676257b)
 
-# ☁️ Enterprise Cloud Calling Solution  
-### Powered by **Cloud Telecom** | Presented by **Global Cloud Media**
-https://cloudtelecom.lk
+## Presented by [Global Cloud Media](https://cloudtelecom.lk)  
+**Powered by Cloud Telecom Infrastructure**
 
 ---
 
 ## 🚀 Overview
 
-**Global Cloud Media** brings you a next-gen **cloud-based calling facility**, tailor-made for modern enterprises. Backed by **Cloud Telecom's powerful infrastructure**, this solution empowers businesses to manage voice communication seamlessly, securely, and at scale — all from the cloud.
+**Cloud Talk** is a next-generation **cloud-based calling facility** designed for modern enterprises. Backed by **carrier-grade infrastructure**, it offers seamless, scalable, and secure communication for your business — hosted entirely in the cloud.
 
-> 🏢 Designed for Enterprises | 🌐 99.99% Uptime | 📞 Carrier-Grade Quality
+> 🏢 Built for Enterprises | 🌐 99.99% Uptime | 📞 HD Voice Quality | 🔐 End-to-End Encrypted
 
 ---
 
 ## 🌟 Key Features
 
-| Feature                         | Description                                                                 |
-|---------------------------------|-----------------------------------------------------------------------------|
-| 📞 **Cloud-PBX Integration**     | Fully hosted PBX with extension dialing, call transfer, and IVR.            |
-| 🌍 **Global Reach**              | Local & international numbers with full number portability.                 |
-| 🛠️ **Custom SIP Trunking**       | Connect any SIP-enabled device or platform with advanced routing.           |
-| 📊 **Call Analytics Dashboard**  | Real-time metrics, call logs, agent performance, and SLA tracking.          |
-| 🔄 **CRM & ERP Integrations**    | Seamlessly integrates with CRMs like Salesforce, HubSpot, or your ERP.      |
-| 🔔 **Real-time Notifications**   | Email, SMS, and push notifications for missed calls or voicemails.          |
-| 📱 **Cross-Device Support**      | Works on desktops, mobile apps, SIP phones, and softphones like MicroSIP.   |
+| Feature                        | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 📞 **Cloud-PBX Integration**  | Fully hosted PBX with extension dialing, call transfer, IVR menus.          |
+| 🌍 **Global Reach**           | Local and international numbers with number portability options.           |
+| 🛠️ **Custom SIP Trunking**    | Connect SIP-enabled devices, apps, or IP-PBX with intelligent routing.      |
+| 📊 **Call Analytics Dashboard** | Real-time metrics, call logs, agent performance tracking.                   |
+| 🔄 **CRM & ERP Integrations** | Integrates with Salesforce, HubSpot, Zoho, or your in-house ERP system.     |
+| 🔔 **Live Notifications**     | Email, SMS, push alerts for missed calls, voicemails, and escalations.     |
+| 📱 **Cross-Device Support**   | Compatible with desktops, mobiles, SIP hardphones, and softphones (e.g., MicroSIP). |
 
 ---
 
-## 🧩 Deployment & Scaling
+## 🧩 Deployment & Scalability
 
-- **Auto-scaling** for peak hour call volumes
-- **Failover ready** with redundant SIP gateways
-- **Global CDN & Edge Routing** for ultra-low latency
+- ✅ Auto-scaling during peak call hours
+- ✅ High-availability failover with redundant gateways
+- ✅ Global CDN and edge-optimized SIP routing
+- ✅ Containerized microservices (Docker, Kubernetes-ready)
+- ✅ Fully compliant with enterprise-grade SLA & security
 
 ---
 
@@ -42,11 +43,16 @@ https://cloudtelecom.lk
 
 ```mermaid
 graph TD
-  A[Customer Call] --> B{Cloud Telecom SIP Gateway}
-  B --> C[Call Routing Engine]
-  C --> D{IVR / Call Queue / Agent}
-  D --> E[CRM / ERP / Ticketing]
-  D --> F[Voicemail / Recording]
-  C --> G[Analytics + Dashboard]
-
-
+  A[Incoming / Outgoing Call] --> B[Cloud Telecom SIP Gateway]
+  B --> C[Cloud PBX System]
+  C --> D{PBX Features}
+  
+  D --> D1[IVR Menu / Auto Attendant]
+  D --> D2[Call Queue / Ring Groups]
+  D --> D3[Call Transfer / Hold / Recording]
+  
+  D --> E[Agent / Softphone / SIP Phone]
+  D --> F[Voicemail / Missed Call Alerts]
+  
+  C --> G[Analytics & Reporting Engine]
+  E --> H[CRM / ERP / Ticketing Integration]
