@@ -1,6 +1,6 @@
 # ☁️ CLOUD TALK – Enterprise Cloud Calling Solution
 
-![ct__dialer_bottom_img](https://github.com/user-attachments/assets/08698d7c-6e91-4088-8bd7-8788d676257b)
+![ct__dialer_bottom_img](https://cloudtelecom.lk/wp-content/uploads/2025/04/Cloud-Telecom-Logo.png)
 
 ## Presented by [Global Cloud Media](https://cloudtelecom.lk)  
 **Powered by Cloud Telecom Infrastructure**
