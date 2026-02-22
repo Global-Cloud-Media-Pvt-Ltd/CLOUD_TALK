@@ -1,7 +1,5 @@
 # ☁️ CLOUD TALK – Enterprise Cloud Calling Solution
 
-![ct__dialer_bottom_img](https://cloudtelecom.lk/wp-content/uploads/2025/04/Cloud-Telecom-Logo.png)
-
 ## Presented by [Global Cloud Media](https://globalcloudmedia.lk)  
 **Powered by Cloud Telecom Infrastructure**
 
