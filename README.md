@@ -37,6 +37,19 @@
 
 ---
 
+## 🚀 API Documentation
+
+The full API documentation is available here:
+
+👉 [API DOC](https://documenter.getpostman.com/view/19238597/2sBXcEkg93)
+
+Please refer to the documentation for:
+- Authentication details
+- Available endpoints
+- Request & response formats
+- Error handling
+- Example requests
+
 ## 🔧 How It Works
 
 ```mermaid
